@@ -1,0 +1,186 @@
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 257
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 273
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 5
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 21
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 26
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 42
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 110
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 126
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 278
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 294
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 341
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 358
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 221
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 252
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 221
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 252
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 221
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 252
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 221
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 252
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 363
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 404
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 409
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 451
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 189
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 216
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 457
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 490
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 495
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 523
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 528
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 574
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 579
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 621
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 110
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 126
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 673
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 714
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:32 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 257
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 273
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 5
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 21
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 26
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 42
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 110
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 126
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 278
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 294
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 341
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 358
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 221
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 252
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 221
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 252
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 221
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 252
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 221
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 252
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 363
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 404
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 409
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 451
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 189
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 216
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 457
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 490
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 495
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 523
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 528
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 574
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 579
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 621
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 110
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 126
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 673
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 714
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/rgxszumy/public_html/blog/database/db_connect.php on line 2
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 299
+[21-Oct-2021 10:44:36 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/blog/libs/fetch_data.php on line 335

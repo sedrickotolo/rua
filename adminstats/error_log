@@ -1,0 +1,18 @@
+[21-Oct-2021 11:37:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/rgxszumy/public_html/blog/adminstats/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/rgxszumy/public_html/blog/adminstats/index.php on line 21
+[21-Oct-2021 11:39:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/rgxszumy/public_html/blog/adminstats/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/rgxszumy/public_html/blog/adminstats/index.php on line 21
+[21-Oct-2021 11:41:47 America/Boise] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home1/rgxszumy/public_html/blog/adminstats/index.php on line 61
+[21-Oct-2021 11:41:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home1/rgxszumy/public_html/blog/adminstats/index.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/rgxszumy/public_html/blog/adminstats/index.php on line 62
+[21-Oct-2021 11:43:38 America/Boise] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home1/rgxszumy/public_html/blog/adminstats/index.php on line 61
+[21-Oct-2021 11:43:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home1/rgxszumy/public_html/blog/adminstats/index.php:62
+Stack trace:
+#0 {main}
+  thrown in /home1/rgxszumy/public_html/blog/adminstats/index.php on line 62
