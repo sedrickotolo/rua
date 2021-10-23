@@ -66,7 +66,7 @@
 					</div>
 				</div>
 				<div class="w3layouts-agile-copyrightbottom">
-					<p> Purewish UG <?php $current=date("Y"); print_r($current);?> | Developed by
+					<p> Read Us Africa UG <?php $current=date("Y"); print_r($current);?> | Developed by
 						<a href="https://www.youtube.com/channel/UCsFgC9ggwrmYR2XqEHXpbNg/">KaKebe Technologies</a>
 					</p>
 
